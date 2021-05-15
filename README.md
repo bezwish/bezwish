@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @bezwish
+- 👀 I’m interested in Web Development, Game Design, and Web Translations
+- 🌱 I’m currently learning how to properly use node.js and overall just wrapping my head around APIs
+- 💞️ If you're  into game development and would like to collab, please let me know!
+- 📫 If you're interested in  what I do and would like to chat, drop by and say hi on discord Bezu#3510
